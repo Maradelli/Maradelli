@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maradelli (Milena)
-- 👀 I’m interested in Data Science and programmin desktop apps
+- 👀 I’m interested in Data Science and programming desktop apps
 - 🌱 I’m currently learning different tools those can be used in machine learning
 
 <!---
