@@ -66,11 +66,6 @@ I am an **Applied Mathematics and Informatics (PMI)** student. I don’t just pr
 
 ---
 
-
-<p align="center">
-  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/145130a3-d159-4771-8aac-749f452406df" />
-</p>
-
 <p align="center">
   <i>"For my part I know nothing with any certainty, but the sight of the stars makes me dream."</i>
 </p>
