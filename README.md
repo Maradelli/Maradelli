@@ -1,3 +1,3 @@
-![](https://github.com/Maradelli/Maradelli/blob/main/6976ea880c18a500015923d3a0c241a9.gif)
+![](6673d889b774da4a5e6acc9b744c976c.jpg)
 
 # Hi, I'm Milena!
