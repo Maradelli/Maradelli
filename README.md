@@ -30,6 +30,7 @@ I am an **Applied Mathematics and Computer Science** student. I don’t just pro
 <p align="left">
   <img width="130" height="28" alt="image" src="https://github.com/user-attachments/assets/13b1d6a6-6c9c-4d9b-a235-28b7fb3aa26a" />
   <img width="171" height="28" alt="image" src="https://github.com/user-attachments/assets/5a9521f6-bb02-42e7-a4c4-a15465972857" />
+  <img width="100" height="28" alt="image" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/d3848233-56d4-4ffa-910f-ebedfc2e4c01" />
   <img width="146" height="28" alt="image" src="https://github.com/user-attachments/assets/f6b4eba7-563f-495b-9557-61245a8975f5" />
   <img width="118" height="28" alt="image" src="https://github.com/user-attachments/assets/3ea9757d-0ff8-42b7-93ec-e6ea83aa71bd" />
