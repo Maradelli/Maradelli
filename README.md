@@ -26,11 +26,9 @@ I am an **Applied Mathematics and Computer Science** student. I don’t just pro
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img width="109" height="28" alt="image" src="https://github.com/user-attachments/assets/5864df20-ca13-4f00-a28a-a8a78db7f2d2" />
   <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/df840f93-4d72-42a3-858b-35eca35c2bbe" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/72cb21ca-00b0-42ff-97aa-9949840894df" />
   <img width="118" height="28" alt="image" src="https://github.com/user-attachments/assets/3ea9757d-0ff8-42b7-93ec-e6ea83aa71bd" />
   <img width="146" height="28" alt="image" src="https://github.com/user-attachments/assets/f6b4eba7-563f-495b-9557-61245a8975f5" />
-  <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/99ced540-dd23-45c0-a4f5-6ab5a63e22b9" />
   <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/a9be692c-6cf4-441c-81f6-fa47f45dce70" />
   <img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/cf0e0d53-0a01-441c-b7d7-220e90042f39" />
   <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/d3848233-56d4-4ffa-910f-ebedfc2e4c01" />
