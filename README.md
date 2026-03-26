@@ -5,7 +5,7 @@
 # 🌌 Welcome to My Digital Space! I'm Milena!
 
 ## 🛰️ Mission Log: The Path to Quantitative Research
-I am an **Applied Mathematics and Informatics** student. I don’t just process data; I look for the underlying mathematical truth. My journey is built on a strategic approach to problem-solving, moving from Data Analytics toward the high-stakes world of **Quant**.
+I am an **Applied Mathematics and Computer Science** student. I don’t just process data; I look for the underlying mathematical truth. My journey is built on a strategic approach to problem-solving, moving from Data Analytics toward the high-stakes world of **Quant**.
 
 *   🎯 **Target:** Aspiring Quantitative Researcher.
 *   🧠 **Mindset:** Strategic, analytical, and obsessed with optimization.
