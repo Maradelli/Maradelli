@@ -2,7 +2,7 @@
 <img width="735" height="272" alt="image" src="https://github.com/user-attachments/assets/aa71c7fc-2a60-4c94-9299-7b4068841773" />
 </p>
 
-# 🌌 Welcome to My Digital Space! I'm Milena!
+# 🌌 Welcome to My Digital Space!
 
 ## 🛰️ Mission Log: The Path to Quantitative Research
 I am an **Applied Mathematics and Computer Science** student. I don’t just process data; I look for the underlying mathematical truth. My journey is built on a strategic approach to problem-solving, moving from Data Analytics toward the high-stakes world of **Quant**.
